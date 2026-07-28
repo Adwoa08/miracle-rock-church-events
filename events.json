@@ -4,6 +4,12 @@
     "title": "MRIM Potluck Picnic",
     "date": "Saturday August 1, 2026",
     "time": "3PM",
+    
+    "date": "Saturday, August 1, 2026",
+    "time": "3:00 PM",
+    "dateISO": "2026-08-01T00:00:00.000Z",
+    "timeISO": "2026-08-01T22:00:00.000Z",
+    
     "description": "Fitts Park\n3050 S 500 E\nSouth Salt Lake City,\nUT 84106",
     "imageUrl": "https://raw.githubusercontent.com/Adwoa08/miracle-rock-church-events/main/images/1783882715878.jpg",
     "imagePath": "images/1783882715878.jpg",
