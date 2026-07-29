@@ -1,5 +1,18 @@
 [
   {
+    "id": "1785305438475",
+    "title": "Testing",
+    "date": "Thursday, July 30, 2026",
+    "time": "3:00 PM",
+    "dateISO": "2026-07-30T06:08:00.000Z",
+    "timeISO": "2026-07-31T21:00:00.000Z",
+    "venue": "926 w 400 n, SLC, Utah 84116",
+    "description": "Testing things out",
+    "imageUrl": "https://raw.githubusercontent.com/Adwoa08/miracle-rock-church-events/main/images/1785305436716.jpg",
+    "imagePath": "images/1785305436716.jpg",
+    "createdAt": "2026-07-29T06:10:38.475Z"
+  },
+  {
     "id": "1785305376367",
     "title": "Testing",
     "date": "Friday, July 31, 2026",
