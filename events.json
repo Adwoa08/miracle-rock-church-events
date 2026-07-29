@@ -1,15 +1,24 @@
 [
   {
+    "id": "1785305376367",
+    "title": "Testing",
+    "date": "Friday, July 31, 2026",
+    "time": "3:00 PM",
+    "dateISO": "2026-07-31T06:08:00.000Z",
+    "timeISO": "2026-07-31T21:00:00.000Z",
+    "venue": "926 w 400 n, SLC, Utah 84116",
+    "description": "Testing things out",
+    "imageUrl": "https://raw.githubusercontent.com/Adwoa08/miracle-rock-church-events/main/images/1785305374514.jpg",
+    "imagePath": "images/1785305374514.jpg",
+    "createdAt": "2026-07-29T06:09:36.367Z"
+  },
+  {
     "id": "1783882717772",
     "title": "MRIM Potluck Picnic",
-    "date": "Saturday August 1, 2026",
-    "time": "3PM",
-    
     "date": "Saturday, August 1, 2026",
     "time": "3:00 PM",
     "dateISO": "2026-08-01T00:00:00.000Z",
     "timeISO": "2026-08-01T22:00:00.000Z",
-    
     "description": "Fitts Park\n3050 S 500 E\nSouth Salt Lake City,\nUT 84106",
     "imageUrl": "https://raw.githubusercontent.com/Adwoa08/miracle-rock-church-events/main/images/1783882715878.jpg",
     "imagePath": "images/1783882715878.jpg",
